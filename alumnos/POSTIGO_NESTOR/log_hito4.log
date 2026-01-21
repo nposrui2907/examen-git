@@ -1,0 +1,12 @@
+* 4b9ddf7 (HEAD -> feature-log) Nestor_Postigo: archivo examen.py alterado, se ha añadido un print con el nombre del usuario
+* 6c6ea89 (main) Nestor_Postigo: meIgnoras.txt añadido forzosamente al area de preparacion
+* 7e4ae47 Nestor_Postigo: creado archivo notas.md con texto en el interior
+* 1eee3ec (origin/main, origin/HEAD) Update cheatsheet.txt
+* 88131a6 Update README.md hasta ejercicio 8
+* 133e273 Create assets
+* 27b81b8 Create notas.md
+* c71a13e Create examen.py
+* a0d3925 Create lista_clase.md
+* 8eb192b Create cheatsheet.txt
+* ae21ad3 Update .gitignore
+* b2ca53a Initial commit
